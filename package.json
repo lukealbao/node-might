@@ -1,0 +1,29 @@
+{
+  "name": "might",
+  "version": "0.1.0",
+  "description": "Do things, maybe.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/restify/node-restify.git"
+  },
+  "scripts": {
+    "test": "mocha --harmony test/spec.js",
+    "benchmark": "node test/benchmark.js"
+  },
+  "keywords": [
+    "feature",
+    "toggle",
+    "node",
+    "restify",
+    "express",
+    "middleware"
+  ],
+  "author": "Luke Albao <lukealbao@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "benchmark": "^2.1.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
