@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/restify/node-restify.git"
+    "url": "git://github.com/lukealbao/node-might.git"
   },
   "scripts": {
     "test": "mocha --harmony test/spec.js",
